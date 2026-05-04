@@ -1,12 +1,10 @@
-package main;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.DecimalFormat;
 
-public class Main extends JFrame {
+public class TrenoNaLadeira extends JFrame {
 
     // Campos onde o usuário digita os valores
     private JTextField txtMassa;
