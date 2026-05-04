@@ -17,7 +17,7 @@ public class TrenoNaLadeira extends JFrame {
     private JLabel lblResB;
     private JLabel lblResC;
 
-    public Main() {
+    public TrenoNaLadeira() {
         setTitle("Trenó na Ladeira - Calculadora Física");
         setSize(800, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -234,7 +234,7 @@ public class TrenoNaLadeira extends JFrame {
         }
 
         SwingUtilities.invokeLater(() -> {
-            new Main().setVisible(true);
+            new TrenoNaLadeira().setVisible(true);
         });
     }
 }
