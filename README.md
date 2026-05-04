@@ -4,9 +4,9 @@ Este projeto em Java resolve um problema de Física sobre um trenó em plano inc
 # Preview da Interface
 
 # Funcionalidades
-✅ Interface gráfica com Swing
-✅ Verificação e validação dos dados de entrada
-✅ Cálculo de forças em plano inclinado
-✅ Consideração de atrito estático e cinético
-✅ Exibição dos resultados em Newtons
+✅ Interface gráfica com Swing  
+✅ Verificação e validação dos dados de entrada  
+✅ Cálculo de forças em plano inclinado  
+✅ Consideração de atrito estático e cinético  
+✅ Exibição dos resultados em Newtons  
 ✅ Tratamento de erros com mensagens ao usuário
